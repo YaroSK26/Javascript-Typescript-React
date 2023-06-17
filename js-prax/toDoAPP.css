@@ -1,0 +1,57 @@
+h1 {
+  color: rebeccapurple;
+}
+
+.button {
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid black;
+  padding: 15px 20px;
+  background-color: rgb(38, 36, 156);
+  color: white;
+  border-radius: 15%;
+  letter-spacing: 2px;
+}
+
+#results{
+  color: blue;
+}
+h3{
+  color: red;
+  display: inline-block;
+}
+
+.button2{
+  display: block;
+}
+
+.square{
+  width: 50px;
+  height: 50px;
+  background: blue;
+  position: relative;
+  left: 0;
+  top: 0;
+  
+  
+}
+
+body{ background-color: rgb(255, 255, 255)} 
+
+
+nav ul li{
+  display: inline;
+  list-style-type: none;
+}
+nav ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid rgb(127, 255, 212);
+  padding: 10px 15px;
+  border-radius: 100px;
+  color: white;
+  background-color: black;
+}
+nav ul li a:hover {
+  background-color: rgb(60, 59, 59);
+}

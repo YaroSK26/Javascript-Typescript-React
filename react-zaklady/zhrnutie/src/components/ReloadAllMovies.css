@@ -1,0 +1,8 @@
+.movie-upload-button {
+    color: white;
+    background-color: #e50914;
+    padding: 5px ;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 20px
+}

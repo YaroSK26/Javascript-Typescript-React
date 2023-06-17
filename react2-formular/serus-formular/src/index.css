@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+    color: white;
+    box-sizing: border-box;
+
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+.username{
+  margin-bottom: 10px;
+  outline: none;
+
+}
+
+input[type="submit"]{
+  background-color: #e50914;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.item {
+  text-align: center;
+  box-shadow: 0px 0px 10px #e50914;
+  width: 300px;
+  margin: 20px auto;
+  padding: 5px 10px;
+  
+}

@@ -1,0 +1,13 @@
+.changer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+
+body{
+    background-color:  #011526;
+    color: white;
+}

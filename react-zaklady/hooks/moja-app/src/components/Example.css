@@ -1,0 +1,16 @@
+.text-button-changer{
+    display: flex;
+    flex-direction: column;
+}
+.text-button-changer h2 {
+    text-align: center;
+    
+}
+.text-button-changer button {
+    background-color: #035aa6;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    margin: 5px 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
